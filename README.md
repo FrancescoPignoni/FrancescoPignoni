@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FrancescoPignoni
+- 👀 I’m interested in Simple programming and hardware creation
+- 🌱 I’m currently learning c++, c, python, bash
+- 💞️ I’m looking to collaborate on github/telegram
+- 📫 How to reach me: francesco.pignoni@studenti.malignani.ud.it
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm very friendly
